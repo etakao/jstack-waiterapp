@@ -18,6 +18,12 @@ export const MenuContainer = styled.View`
   flex: 1;
 `;
 
+export const CenteredContainer = styled.View`
+  flex: 1;
+  alignItems: center;
+  justifyContent: center;
+`;
+
 export const Footer = styled.View`
   min-height: 110px;
   background: #FFF;
